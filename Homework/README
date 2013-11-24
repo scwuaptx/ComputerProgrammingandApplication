@@ -13,3 +13,13 @@ ABCDCBA       ABCDCBA
          ABA           ABA
           A             A
 
+Hw3 : Enter a integer n ,then draw some tree and ground. Such as
+
+3
+
+  *       *       *
+ * *     * *     * *
+*****   *****   *****
+  |       |       |
+---------------------
+
