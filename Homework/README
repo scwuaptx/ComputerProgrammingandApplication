@@ -1,0 +1,15 @@
+The file will explain the homework in Homework dirctory.
+
+
+Hw1 : Enter a integer n ,then print some triangle. Such as
+
+4
+   A             A
+  ABA           ABA
+ ABCBA         ABCBA
+ABCDCBA       ABCDCBA
+       ABCDCBA       ABCDCBA
+        ABCBA         ABCBA
+         ABA           ABA
+          A             A
+
