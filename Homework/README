@@ -23,3 +23,36 @@ Hw3 : Enter a integer n ,then draw some tree and ground. Such as
   |       |       |
 ---------------------
 
+Hw4 : Make a marquee in 60*7 screen to simulate the car go forward. Such as
+
+==================
+**************    
+*            *    
+*            *****
+*                *
+**  ********  ****
+  **        **   
+==================
+
+Hw5 : Dynamic write the chinese sentence step by step. Such as
+"           ─┬──   ├─┘   ├──   ┴ ┬─╮  ┴ ┼┬ ★     ├─┐" ,
+" ╭┬╯ ♂   │╭╮ ─└─┘  │┌┬┐  ─ ●  │  ─ ┴┴┼  ┼┼  │  " ,
+" ─┼─┼  ╱│╰╯ ┬ ─╮ ││┼┼┼  ─ ┘─┘  ─ ┌┐│  ││││  " ,
+" ╭┼╯┼    │     │  ╳  │├└┴┼ ┌┐┬～● ┌┐├┤┼  └┼││♀" ,
+"   ┘  └                     ┘    ┘ └┘└─┘ └┘└┘└        ┘  " ,
+"       ┬┐          ├─┘    ├──     ┌┬┐                        " ,
+" ╱  ╲││  ╭╮  ─└─┘   │┌┬┐  ┌─┬┬┐            ├─┐    " ,
+" ╱  ╲│┘  ╰╯  ┬ ─╮  ││┼┼┼   ┴──┤   ├    ┼┼  │      " ,
+"  ┌┐ │          │  ╳   │├└┴┼   ┌┬─┐   ┴─  └┼／│♀    " ,
+"  └┘                        ┘    ┘   ├┴─┼               ┘      " } ;
+
+Hw6 : There are two chinese poem, you need to print them with some format. Such as
+
+  string  pleft  = "游赤縣遠鷺嶺寒風起既喜朝聞日復日已畢耆山本願誠難在" ;
+  string  pright = "愁丹思抽龍河激水流不覺季頹秋更秋終望持經振錫往揚州" ;
+
+	已既鷺赤游愁抽流秋州
+	畢喜嶺縣遠丹思水更揚
+	耆朝寒風起龍河激秋往
+	山聞日復日不覺季頹錫
+	本願誠難在終望持經振
