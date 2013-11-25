@@ -80,4 +80,10 @@ Enter : 2012 2
   18  19  20  21  22  23  24      22  23  24  25  26  27  28
   25  26  27  28  29  30  31      29  30
 
+Hw8 : Two people throw three dice.If two of them are same,then get the score which the other one dice.If three dice are different,then it will get zero score.That two people need to throw three dice until get the scores.
 
+Hw9 : Simulate a bucket which can be pour water,and print the high of the water in the bucket.
+
+Hw10 : Enter some filename,then merge them in a new file.
+
+Hw11 : Display a littlegreen,like the LED in traffic lights.
