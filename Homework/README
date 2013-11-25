@@ -57,8 +57,7 @@ Hw6 : There are two chinese poem, you need to print them with some format. Such 
 	山聞日復日不覺季頹錫
 	本願誠難在終望持經振
 
-Hw7 : Like the command of linux cal,but there is one more parameter which decide the column that you want.
-      Such as
+Hw7 : Like the command of linux cal,but there is one more parameter which decide the column that you want.Such as
 
 Enter : 2012 2
 
